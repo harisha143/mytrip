@@ -1,0 +1,22 @@
+.card{
+   margin-top: -50px;
+   margin-bottom: 40px;
+    background-color: rgb(92, 109, 82) ;
+}
+h5{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+p{
+    color: cyan;
+}
+.card-footer{
+background-color: rgb(255, 255, 255);
+}
+.text-muted {
+    color: #000000!important;
+    font-weight: bold;
+}
+.card:hover{ 
+    border: 5px solid rgb(0, 0, 0);
+}

@@ -1,0 +1,12 @@
+th{
+    text-align: center;
+    
+}
+
+thead{
+    color: rgb(108, 233, 250);
+    background-color: rgb(131, 90, 61);
+}
+table{
+    margin-top: 20px;
+}

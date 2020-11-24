@@ -1,0 +1,33 @@
+.mainLogo{
+  width: 5%;
+  margin-left: -690px;
+  vertical-align: inherit;
+}
+.appHead{
+  font-weight: bold;
+  font-size: 25px;
+ padding-left: 10px;
+ font-family: Arial, Helvetica, sans-serif; 
+ color: black;
+}
+.nav-item{
+  color: white;
+  margin-left: 50px;
+  font-weight: 700;
+}
+.nav-item:hover{
+  color: tomato;
+}
+.log{
+  margin-left: 250px;
+}
+.navbar-nav{
+  margin-top: -10px;
+  border-right: 2px solid rgb(44, 231, 11);
+  border-left: 2px solid rgb(44, 231, 11);
+  border-top: 2px solid   rgb(44, 231, 11);
+  border-bottom: 2px solid   rgb(44, 231, 11);
+}
+body{
+  background-color: rgb(235, 221, 221);
+}

@@ -1,0 +1,35 @@
+form{
+    margin-left: 30%;
+    padding: 0px;
+    text-align:center;
+    width: 50%;
+    background-color: #929297e8;
+    border: 2px solid black;
+    }
+    .regsub{
+        background-color:#0a8f58;
+        width: 100%;
+        padding: 9px 5px;
+        margin:10px 0px 0px 100px;
+        cursor:pointer;
+        border:none;
+        color:#070e08;
+        font-size: 25px;
+        font-weight: bold;
+        }
+        #id{
+            width: 100%;
+            padding: 9px 5px;
+            margin:10px 0px 0px 30px;
+            cursor:pointer;
+            border:none; 
+        }
+        label{
+            color: rgb(0, 0, 0);
+            font-weight: bold;
+        }
+        .registraionHead{
+            color: rgb(0, 255, 85);
+            font-family: 'Times New Roman', Times, serif;
+        }
+        
